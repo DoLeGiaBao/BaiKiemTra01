@@ -1,0 +1,7 @@
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai02\code\Ba0i2OOP\Ba0i2OOP\obj\Debug\Bai02OOP.csproj.AssemblyReference.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai02\code\Ba0i2OOP\Ba0i2OOP\obj\Debug\Bai02OOP.csproj.CoreCompileInputs.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai02\code\Ba0i2OOP\Ba0i2OOP\bin\Debug\Ba0i2OOP.exe.config
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai02\code\Ba0i2OOP\Ba0i2OOP\bin\Debug\Ba0i2OOP.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai02\code\Ba0i2OOP\Ba0i2OOP\bin\Debug\Ba0i2OOP.pdb
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai02\code\Ba0i2OOP\Ba0i2OOP\obj\Debug\Ba0i2OOP.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai02\code\Ba0i2OOP\Ba0i2OOP\obj\Debug\Ba0i2OOP.pdb

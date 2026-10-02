@@ -1,0 +1,10 @@
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\obj\Debug\Bai03Windowsforms.csproj.AssemblyReference.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\obj\Debug\Bai03Windowsforms.Properties.Resources.resources
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\obj\Debug\Bai03Windowsforms.csproj.GenerateResource.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\obj\Debug\Bai03Windowsforms.csproj.CoreCompileInputs.cache
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\bin\Debug\Bai03Windowsforms.exe.config
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\bin\Debug\Bai03Windowsforms.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\bin\Debug\Bai03Windowsforms.pdb
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\obj\Debug\Bai03Windowsforms.exe
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\obj\Debug\Bai03Windowsforms.pdb
+C:\Users\baogi\OneDrive\Máy tính\BaiKiemTra01\Bai03\Bai03Windowsforms\Bai03Windowsforms\obj\Debug\Bai03Windowsforms.Form1.resources
